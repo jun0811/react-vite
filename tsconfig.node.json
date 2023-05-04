@@ -3,10 +3,7 @@
     "composite": true,
     "skipLibCheck": true,
     "module": "ESNext",
-    "allowSyntheticDefaultImports": true,
-    "paths": {
-      "@/*": ["./src/*"]
-    }
+    "allowSyntheticDefaultImports": true
   },
   "include": ["vite.config.ts"]
 }
